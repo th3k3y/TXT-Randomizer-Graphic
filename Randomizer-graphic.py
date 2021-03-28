@@ -6,7 +6,7 @@ from tkinter import messagebox
 from PIL import ImageTk,Image
 import random
 
-#Defining the main fonction.
+#Defining the main function.
 
 def process():
 	filename = filedialog.askopenfilename(initialdir="/", title="Select Your File", filetypes=[("TEXT FILES", ".txt")])
