@@ -1,5 +1,6 @@
 # TXT-Randomizer-Graphic
-The same tool as the other I made but this one got a graphic interface, made it for fun.
+Here's a little tool I made for fun, this tool shuffle any .txt file that you select by clicking on the blue button, very simple but can be really useful.
+By the way, that's exactly the same program than the other I posted it' just that this one got a graphic interface.
 
 ![image](https://user-images.githubusercontent.com/49789253/112753692-fb7e5300-8fd8-11eb-8d92-28aa0102e86c.png)
 
